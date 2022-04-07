@@ -1,0 +1,53 @@
+
+
+
+
+.bg-section {
+    background: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.login-area {
+    background: rgb(78 210 234 / 83%);
+}
+.fctc-name h1 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: #273EB9;
+}
+.fctc-name cite {
+    text-align: center;
+    color: #273EB9;
+}
+.st-text {
+    font-weight: bold;
+    text-align: center;
+    color: #AE28A9;
+    font-size: 14px;
+}
+.fctc-name p {
+    font-weight: bold;
+    text-align: center;
+    color: #AE28A9;
+    font-size: 15px;
+}
+
+.sign-in {
+    float: right;
+}
+.reg {
+    color: #AE28A9;
+}
+.reg a {
+    color: #AE28A9;
+    text-decoration: none;
+    display: inline-block;
+
+}
+.reg a:hover {
+    text-decoration: underline;
+}
